@@ -1,0 +1,90 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,bg_volcano_png,volcano_pack_03_png,volcano_pack_05_png,volcano_pack_07_png,volcano_pack_09_png,volcano_pack_11_png,volcano_pack_13_png,volcano_pack_15_png,volcano_pack_17_png,volcano_pack_19_png,demo.game_json,mouse_json,mouse_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+		{
+			"name": "bg_jpg",
+			"type": "image",
+			"url": "assets/bg.jpg"
+		},
+		{
+			"name": "egret_icon_png",
+			"type": "image",
+			"url": "assets/egret_icon.png"
+		},
+		{
+			"name": "description_json",
+			"type": "json",
+			"url": "config/description.json"
+		},
+		{
+			"name": "bg_volcano_png",
+			"type": "image",
+			"url": "assets/bg_volcano.png"
+		},
+		{
+			"name": "volcano_pack_03_png",
+			"type": "image",
+			"url": "assets/volcano_pack_03.png"
+		},
+		{
+			"name": "volcano_pack_05_png",
+			"type": "image",
+			"url": "assets/volcano_pack_05.png"
+		},
+		{
+			"name": "volcano_pack_07_png",
+			"type": "image",
+			"url": "assets/volcano_pack_07.png"
+		},
+		{
+			"name": "volcano_pack_09_png",
+			"type": "image",
+			"url": "assets/volcano_pack_09.png"
+		},
+		{
+			"name": "volcano_pack_11_png",
+			"type": "image",
+			"url": "assets/volcano_pack_11.png"
+		},
+		{
+			"name": "volcano_pack_13_png",
+			"type": "image",
+			"url": "assets/volcano_pack_13.png"
+		},
+		{
+			"name": "volcano_pack_15_png",
+			"type": "image",
+			"url": "assets/volcano_pack_15.png"
+		},
+		{
+			"name": "volcano_pack_17_png",
+			"type": "image",
+			"url": "assets/volcano_pack_17.png"
+		},
+		{
+			"name": "volcano_pack_19_png",
+			"type": "image",
+			"url": "assets/volcano_pack_19.png"
+		},
+		{
+			"name": "demo.game_json",
+			"type": "json",
+			"url": "assets/demo.game.json"
+		},
+		{
+			"name": "mouse_json",
+			"type": "json",
+			"url": "assets/mouse.json"
+		},
+		{
+			"name": "mouse_png",
+			"type": "image",
+			"url": "assets/mouse.png"
+		}
+	]
+}
