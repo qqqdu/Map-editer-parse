@@ -2,6 +2,7 @@
 
 这个项目用来演示游戏引擎解析由 [React-map-editer](https://github.com/checkmind/React-map-editer) 生成的 `*.map.json` 的文件。  
 ## 基于白鹭引擎   
+[点我去网页预览](http://qqqdu.com/Map-editer-parse/map-parse/)  
 
 效果图：  
 

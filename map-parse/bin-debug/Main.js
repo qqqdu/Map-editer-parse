@@ -143,7 +143,7 @@ var Main = (function (_super) {
         this.addChild(this.map);
         setInterval(function () {
             _this.map.x -= 10;
-        }, 10);
+        }, 60);
         // this.group = new eui.Group();
         // this.group.addChild(this.map)
         // this.addScroll()

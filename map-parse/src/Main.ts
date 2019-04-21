@@ -99,7 +99,7 @@ class Main extends egret.DisplayObjectContainer {
         this.addChild(this.map)
         setInterval(() => {
             this.map.x -= 10
-        }, 10)
+        }, 60)
         // this.group = new eui.Group();
         
         // this.group.addChild(this.map)
